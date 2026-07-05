@@ -1,0 +1,6 @@
+{
+  "name": "Gas Chromatography Simulator",
+  "description": "An interactive, highly professional Gas Chromatography (GC) simulator for educational institutions, engineering colleges, and chemical engineering training. Developed by Eng. Ali Saif AlDeen Haider Alnawfal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
